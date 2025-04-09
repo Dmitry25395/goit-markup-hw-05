@@ -493,7 +493,11 @@ img {
 .subscribe-form-footer {
   display: flex;
   gap: 24px;
-  justify-content: space-between;
+  margin-left: 80px;
+}
+.text-footer-inp {
+  margin-left: 80px;
+  margin-bottom: 16px;
 }
 .footer-email-inp {
 }
@@ -516,6 +520,8 @@ img {
 .subscribe-btn-footer {
   min-width: 165px;
   height: 40px;
+  margin-right: 159px;
+  padding-left: 24px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -532,6 +538,7 @@ img {
 }
 .subscribe-btn-icon {
   margin-left: 16px;
+  margin-right: 24px;
 }
 /*Footer*/
 .backdrop {
