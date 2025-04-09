@@ -498,6 +498,8 @@ img {
 .text-footer-inp {
   margin-left: 80px;
   margin-bottom: 16px;
+  font-weight: 500;
+  color: #ffffff;
 }
 .footer-email-inp {
 }
