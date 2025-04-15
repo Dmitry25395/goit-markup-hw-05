@@ -647,7 +647,7 @@ img {
   color: #8e8f99;
 }
 .modal-input-wrap {
-  height: 100%;
+ margin-bottom: 8px;
   position: relative;
 }
 .modal-label-input {
